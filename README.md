@@ -57,8 +57,8 @@ LinkedIn
 </details>
 
 
-[website]: https://codeSTACKr.com
+<!-- [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/alanwaddell
+[linkedin]: https://linkedin.com/in/alanwaddell -->
