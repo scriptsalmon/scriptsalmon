@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][brokenlink]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br />
 
 <details>
-  <summary>:zap: What I Value</summary>
+  <summary>What I Value</summary>
   
 <!--START_SECTION:activity-->
 - Growth
@@ -60,12 +60,6 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="scriptsalmons github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=scriptsalmon&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
