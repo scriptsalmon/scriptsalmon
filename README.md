@@ -1,4 +1,4 @@
-### Hey, I'm Alan :see_no_evil:
+### Hey, I'm Alan :blush:
 I'm currently an aspiring Software Developer at BloomTech!
 
 <!--
