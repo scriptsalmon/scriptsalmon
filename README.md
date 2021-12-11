@@ -1,6 +1,9 @@
 ### Hey, I'm Alan :blush:
 I'm currently an aspiring Software Developer at BloomTech!
 
+All my interests and hobbies have this in common: Defining a focus, breaking that focus down into bite sized parts, and eating with the best utensils and techniques available. 
+
+I'm a software developer with an appetite for learning and problem-solving! Currently, I have a craving for blockchain, web3 and augmented reality ~ and am eager to contribute to the growth of emerging tech. 
 <!--
 **scriptsalmon/scriptsalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
