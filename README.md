@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 </details>
 
-[linkedin]: https://linkedin.com/in/alanwaddell
+[linkedin]: https://linkedin.com/in/alan-waddell
 <!-- [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
