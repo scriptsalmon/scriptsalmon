@@ -7,7 +7,7 @@ I'm a software developer with an appetite for learning and problem-solving! Curr
 
 🔭 I’m currently working with Underdogdevs developing the database for an interactive web application to support aspiring developers who come from disadvantaged backgrounds. 
 
-🌱 Fun fact: When I'm not coding I'm outside tending the garden or getting out in the hills. 
+🌱 Fun fact: When I'm not coding I'm outside tending the garden, exploring the outdoors or cuddling.
 
 <!--
 **scriptsalmon/scriptsalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
