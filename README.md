@@ -1,9 +1,8 @@
 ### Hey, I'm Alan :blush:
-I'm a Software Developer!
 
 All my interests and hobbies have this in common: Defining a focus, breaking that focus down into bite sized parts, and eating with the best utensils and techniques available. 
 
-I'm a software developer with an appetite for learning and problem-solving! Currently, I have a craving for blockchain, web3 and augmented reality ~ and am eager to contribute to the growth of emerging tech. 
+I'm a software engineer with an appetite for learning and problem-solving! Currently, I have a craving for blockchain, web3 and augmented reality ~ and am eager to contribute to the growth of sustainability and emerging tech. 
 
 🔭 I’m currently working with Underdogdevs developing the database for an interactive web application to support aspiring developers who come from disadvantaged backgrounds. 
 
