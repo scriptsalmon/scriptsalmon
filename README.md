@@ -1,12 +1,10 @@
 ### Hey, I'm Alan :blush:
 
-All my interests and hobbies have this in common: Defining a focus, breaking that focus down into bite sized parts, and eating with the best utensils and techniques available. 
+I'm a software engineer 
 
-I'm a software engineer with an appetite for learning and problem-solving! Currently, I have a craving for blockchain, web3 and augmented reality ~ and am eager to contribute to the growth of sustainability and emerging tech. 
+🔭 Currently having a blast spelunking blockchains with hardhat.
 
-🔭 I’m currently working with Underdogdevs developing the database for an interactive web application to support aspiring developers who come from disadvantaged backgrounds. 
-
-🌱 Fun fact: When I'm not coding I'm outside tending the garden or exploring the outdoors.
+🌱 When I'm not writing code I'm probably marvelling at code someone else has written much better. 
 
 <!--
 **scriptsalmon/scriptsalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +26,6 @@ Here are some ideas to get you started:
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /> -->
@@ -52,12 +49,10 @@ Here are some ideas to get you started:
 <br />
 
 <details>
-  <summary>What I Value</summary>
+  <summary>What I Like</summary>
   
 <!--START_SECTION:activity-->
 - Growth
-- Empathy
-- Adventure
 <!--END_SECTION:activity-->
 
 </details>
