@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/alan-waddell">🎭</a>
+<!-- <a href="https://www.linkedin.com/in/alan-waddell">🎭</a> -->
 <a href="https://aw.netlify.app/">🥡</a>
 
 <!-- 
