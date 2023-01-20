@@ -1,10 +1,10 @@
-### Hey, I'm Alan.. :blush:
+<!-- ### Hey, I'm Alan.. :blush:
 
 ...a software engineer!
 
 🔭 Currently having a blast exploring smart contracts with hardhat.
 
-🌱 When I'm not writing code I'm probably marvelling at code someone else has written much better. 
+🌱 When I'm not writing code I'm probably marvelling at code someone else has written much better.  -->
 
 <!--
 **scriptsalmon/scriptsalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div>
+<!--   <div>
     <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedIn"/>
     </a>
-  </div>
+  </div> -->
 <!--   <div>
     <a href="https://twitter.com/null_limit">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
   </div> -->
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
   😘
 <!--END_SECTION:activity-->
-</details>
+<!-- </details> --> 
