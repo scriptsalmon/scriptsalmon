@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--   <div>
+<a href="https://www.linkedin.com/in/alan-waddell">🎭</a>
+<a href="https://aw.netlify.app/">🥡</a>
+
+<!-- 
+  <div>
     <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedIn"/>
     </a>
@@ -44,6 +48,6 @@ Here are some ideas to get you started:
 <details>
   <summary></summary>
 <!--START_SECTION:activity-->
-  😘
+
 <!--END_SECTION:activity-->
 <!-- </details> --> 
